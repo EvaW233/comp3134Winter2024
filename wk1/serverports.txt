@@ -1,0 +1,38 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2759
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 ArialMT;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww15960\viewh15340\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs32 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 - What is the definition of server port?\
+\
+A server port is a specific endpoint on a computer, identified by a 16-bit number, used to host services or applications that can be accessed over a network. This numeric identifier, combined with an IP address, facilitates the proper routing of data to the correct service or process running on the device.\
+================================================================================\
+- What is server port range?\
+\
+The server port range refers to the entire range of port numbers available for use on a server or computing device. Port numbers are 16-bit unsigned integers, covering a range from 0 to 65535. This range is divided into three main categories: well-known ports (0-1023), registered ports (1024-49151), and dynamic or private ports (49152-65535).\
+\pard\pardeftab720\partightenfactor0
+\cf0 \outl0\strokewidth0 ================================================================================\outl0\strokewidth0 \strokec2 \
+\pard\pardeftab720\partightenfactor0
+\cf0 - How many bits does number above represent?\
+\
+The number 65535 represents a 16-bit value. The 16-bit number is derived from the fact that the port number is a 16-bit unsigned integer, allowing for a total of 2^16 (or 65536) possible values.\
+\
+\pard\pardeftab720\partightenfactor0
+\cf0 \outl0\strokewidth0 ================================================================================\outl0\strokewidth0 \strokec2 \
+\pard\pardeftab720\partightenfactor0
+\cf0 - State 10 common server ports.\
+\
+Port 21 - FTP (File Transfer Protocol)\
+Port 22 - SSH (Secure Shell)\
+Port 25 - SMTP (Simple Mail Transfer Protocol)\
+Port 80 - HTTP (Hypertext Transfer Protocol)\
+Port 110 - POP3 (Post Office Protocol version 3)\
+Port 143 - IMAP (Internet Message Access Protocol)\
+Port 443 - HTTPS (Hypertext Transfer Protocol Secure)\
+Port 3306 - MySQL Database Server\
+Port 53 - DNS (Domain Name System)\
+Port 8080 - HTTP Alternate (commonly used for web proxies)}
